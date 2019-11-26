@@ -1,0 +1,26 @@
+
+
+.btn {
+  background-color:#FDC168;
+  color: black;
+  border-block-color:#FDC168;
+  border-color: #FDC168;
+  box-shadow: 1px 1px 1px;
+  
+}
+
+.btn:hover {
+  background-color:#FB9902;
+  border-block-color: #FB9902;
+  border-color: #FB9902;
+  
+}
+
+.btn:active {
+  background-color: #975B02;
+  
+ 
+}
+
+
+
