@@ -2,7 +2,7 @@
   "name": "random-quote",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Achenson.github.io/random-quote-react",
+  "homepage": "https://achenson.github.io/random-quote-react",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
